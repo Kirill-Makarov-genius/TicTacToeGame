@@ -11,7 +11,7 @@ Game has 3 main methods:
 2. check() - defines who win by checking all win conditions
 3. actionPerformed() - executes all players move and switch turns
 
-![image](https://user-images.githubusercontent.com/82897470/229085175-b1c5c7a9-a32e-4ba7-b2d0-92d6182dfe7d.png)
+![image](https://user-images.githubusercontent.com/82897470/229088292-5d9de6ea-31bb-49d2-ac58-9179a42c97fc.png)
 
 Game stops when one of the players wins and then all buttons are disabled and the win line is highlighted
 ![image](https://user-images.githubusercontent.com/82897470/229088126-12b63e87-96be-409c-9f60-b17c7c918615.png)
