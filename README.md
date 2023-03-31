@@ -13,5 +13,6 @@ Game has 3 main methods:
 
 ![image](https://user-images.githubusercontent.com/82897470/229085175-b1c5c7a9-a32e-4ba7-b2d0-92d6182dfe7d.png)
 
-
+Game stops when one of the players wins and then all buttons are disabled and the win line is highlighted
+![image](https://user-images.githubusercontent.com/82897470/229088126-12b63e87-96be-409c-9f60-b17c7c918615.png)
 
